@@ -4,3 +4,4 @@ repo = "https://github.com/Dale-Muccignat/localregistry2"
 description = "My private registry"
 
 [packages]
+14d21136-4a01-4484-96ec-002222588dc1 = { name = "Master", path = "M/Master" }
