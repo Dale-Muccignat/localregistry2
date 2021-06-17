@@ -5,3 +5,4 @@ description = "My private registry"
 
 [packages]
 14d21136-4a01-4484-96ec-002222588dc1 = { name = "Master", path = "M/Master" }
+a7da4855-385b-4a38-b0bb-3181bd9fb17a = { name = "MCLuJ", path = "M/MCLuJ" }
