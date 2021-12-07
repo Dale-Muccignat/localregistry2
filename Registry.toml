@@ -7,6 +7,7 @@ description = "My private registry"
 14d21136-4a01-4484-96ec-002222588dc1 = { name = "Master", path = "M/Master" }
 2688778c-3549-4980-b6fe-7a9ff5c92ab2 = { name = "AutoParameters", path = "A/AutoParameters" }
 2c68f703-1361-4b11-b625-5488bb42ec3f = { name = "Gases", path = "G/Gases" }
+4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
 9c22a551-5b3b-403f-9f47-f7427e9f7046 = { name = "MyStructs", path = "M/MyStructs" }
 9c4395cb-5d2b-4c39-ae19-55854566b138 = { name = "LXCatParser", path = "L/LXCatParser" }
 a0cff5f7-4399-4d78-90d8-99a93a19fb99 = { name = "RSequences", path = "R/RSequences" }
