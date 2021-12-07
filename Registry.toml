@@ -8,6 +8,7 @@ description = "My private registry"
 2688778c-3549-4980-b6fe-7a9ff5c92ab2 = { name = "AutoParameters", path = "A/AutoParameters" }
 2c68f703-1361-4b11-b625-5488bb42ec3f = { name = "Gases", path = "G/Gases" }
 4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
+80847211-bc6c-46c0-860f-0841d8001362 = { name = "EyeOfRa", path = "E/EyeOfRa" }
 991984a3-fa47-4c97-b7d3-89e3c6c3a7f8 = { name = "MCSim", path = "M/MCSim" }
 9c22a551-5b3b-403f-9f47-f7427e9f7046 = { name = "MyStructs", path = "M/MyStructs" }
 9c4395cb-5d2b-4c39-ae19-55854566b138 = { name = "LXCatParser", path = "L/LXCatParser" }
