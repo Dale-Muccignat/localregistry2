@@ -4,3 +4,6 @@ RSequences = "a0cff5f7-4399-4d78-90d8-99a93a19fb99"
 
 ["0.2-0"]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+["0.2.3-0"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
