@@ -1,5 +1,4 @@
 [0]
-Boltzmann = "7db6349a-8a71-4bd9-bb7c-a1cca8b6687d"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DelayDiffEq = "bcd4f6db-9728-5f36-b5f7-82caef46ccdb"
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
@@ -20,3 +19,6 @@ PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0-0.1"]
+Boltzmann = "7db6349a-8a71-4bd9-bb7c-a1cca8b6687d"
