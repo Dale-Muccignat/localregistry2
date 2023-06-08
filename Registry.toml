@@ -19,3 +19,4 @@ b9d2e702-8a96-4e43-9ef3-aad4b468edc3 = { name = "FVB", path = "F/FVB" }
 cf7a8319-7422-45e1-9d9d-09d2f3292ef7 = { name = "AndersonAcceleration", path = "A/AndersonAcceleration" }
 ddb0f295-5663-454b-90a2-ac439c0aa4d5 = { name = "DPlots", path = "D/DPlots" }
 e06958b2-73e9-4a89-a534-b2da2fa04c79 = { name = "MCSimUnits", path = "M/MCSimUnits" }
+e9315c80-ca40-483e-a206-29ab362090f5 = { name = "CSML", path = "C/CSML" }
