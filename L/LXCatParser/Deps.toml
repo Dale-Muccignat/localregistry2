@@ -4,3 +4,6 @@ SLEEFPirates = "476501e8-09a2-5ece-8869-fb82de89a1fa"
 
 ["0.2-0"]
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+
+["0.2.2-0"]
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
