@@ -21,3 +21,11 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 ["0.2.1-0"]
 Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+
+["0.2.2-0"]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+ExportAll = "ad2082ca-a69e-11e9-38fa-e96309a31fe4"
+FluxTraining = "7bf95e4d-ca32-48da-9824-f0dc5310474f"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
