@@ -11,6 +11,7 @@ description = "My private registry"
 3f982fff-1177-46f2-a15c-1fb29eabd209 = { name = "LightLeptonTools", path = "L/LightLeptonTools" }
 4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
 80847211-bc6c-46c0-860f-0841d8001362 = { name = "EyeOfRa", path = "E/EyeOfRa" }
+991984a3-fa47-4c97-b7d3-89e3c6c3a7f8 = { name = "LightLeptonMC", path = "L/LightLeptonMC" }
 9c22a551-5b3b-403f-9f47-f7427e9f7046 = { name = "MyStructs", path = "M/MyStructs" }
 9c4395cb-5d2b-4c39-ae19-55854566b138 = { name = "LXCatParser", path = "L/LXCatParser" }
 a0cff5f7-4399-4d78-90d8-99a93a19fb99 = { name = "RSequences", path = "R/RSequences" }
